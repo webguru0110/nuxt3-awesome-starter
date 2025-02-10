@@ -70,6 +70,17 @@ _This template was built to make it easier to create web projects using Nuxt 3. 
   </a>
 </p>
 
+#### ☁ Contribute with Cloud IDEs
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode)](https://vscode.dev/github/viandwi24/nuxt3-awesome-starter)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/viandwi24/nuxt3-awesome-starter)
+[![Open in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/embed/react-markdown-preview-co1mj?fontsize=14&hidenavigation=1&theme=dark)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/viandwi24/nuxt3-awesome-starter)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/viandwi24/nuxt3-awesome-starter?template=node&title=ngx-vcard%20Example)
+[![Open in Repl.it](https://replit.com/badge/github/withastro/astro)](https://replit.com/github/viandwi24/nuxt3-awesome-starter)
+[![Open in Glitch](https://img.shields.io/badge/Open%20in-Glitch-blue?logo=glitch)](https://glitch.com/edit/#!/import/github/viandwi24/nuxt3-awesome-starter)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/viandwi24/nuxt3-awesome-starter)
+
+
 ## Table of Contents
 - [Nuxt 3 Awesome Starter](#nuxt-3-awesome-starter)
   - [Features](#features)
